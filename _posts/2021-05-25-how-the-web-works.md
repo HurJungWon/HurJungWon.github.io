@@ -1,6 +1,6 @@
 ---
 title:  "웹 동작 원리"
-excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
+excerpt: "naver.com 으로 웹 화면으로 출력되기까지."
 
 categories:
   - Blog
